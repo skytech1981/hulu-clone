@@ -1,3 +1,5 @@
 .results {
-    color: rgb(240, 154, 15);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
